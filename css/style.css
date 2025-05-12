@@ -1,6 +1,8 @@
 /* navigation */
 
-
+nav img {
+    width: 100px;
+}
 nav {
     position: sticky;
     top: 0;
@@ -109,12 +111,11 @@ footer {
 }
 
 .footer-item a {
-    color: #f5c866; 
-}
-
-.footer-item a:hover {
+    color: #f5c866;
+  }
+  
+  .footer-item a:hover {
     text-decoration: underline;
-}
-
+  }
 
 body {background-color: #f5c866;}
